@@ -21,3 +21,9 @@ main {
     justify-content: center;
     align-items: center;
 }
+
+.copy-hex img{
+    border: solid white;
+    outline: solid white;
+
+}
